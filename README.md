@@ -1,9 +1,12 @@
-<h1>CREATE YOUR PERSONEL WEB SIDE</h1>
+<h1>CREATE YOUR PERSONAL WEB SIDE</h1>
 <br>
 <img src="profiles.png">
 <br>
 <img src="addProfile.png">
 <hr>
+<br>
+<h3>VIDEO:</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JVKHBnAU24A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
 Instagram : <a href="https://www.instagram.com/veyselkartalmis/">@veyselkartalmis</a>
 </p>
