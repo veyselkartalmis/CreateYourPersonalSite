@@ -6,7 +6,7 @@
 <hr>
 <br>
 <p>
-Instagram : <a href="https://www.youtube.com/watch?v=JVKHBnAU24A">GO TO VIDEO</a>
+<a href="https://www.youtube.com/watch?v=JVKHBnAU24A">GO TO VIDEO</a>
 </p>
 <br>
 <p>
