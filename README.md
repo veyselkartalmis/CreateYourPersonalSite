@@ -6,7 +6,7 @@
 <hr>
 <br>
 <p>
-<a href="https://www.youtube.com/watch?v=JVKHBnAU24A">GO TO VIDEO</a>
+<a href="https://www.youtube.com/watch?v=JVKHBnAU24A">VIDEO</a>
 </p>
 <br>
 <p>
