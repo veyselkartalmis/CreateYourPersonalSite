@@ -10,7 +10,7 @@
 </p>
 <br>
 <p>
-Instagram : <a href="https://www.instagram.com/veyselkartalmis/">@veyselkartalmis</a>
+Instagram: <a href="https://www.instagram.com/veyselkartalmis/">@veyselkartalmis</a>
 </p>
 
 ## License
