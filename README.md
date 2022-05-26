@@ -1,4 +1,4 @@
-<h1>CREATE YOUR PERSONAL WEB SIDE</h1>
+<h1>CREATE YOUR PERSONAL WEB SITE</h1>
 <br>
 <img src="profiles.png">
 <br>
